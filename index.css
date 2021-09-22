@@ -1,0 +1,49 @@
+.backg{background-color: linen;
+    background-origin: border-box;
+    background-origin: padding-box;
+    background-origin: content-box;
+    opacity: 0.995;
+    background-image: url(bg.jpg);
+    background-attachment: scroll;
+   
+  
+
+
+}
+.text1{  color: maroon;
+    text-align: center;
+    border-style: outset;
+}
+.text2{  color:DodgerBlue;
+    text-align: center;}
+.div { margin-left:15% ;
+        background: rgba(0, 128, 0, 0.3) ;
+        background-color: green;
+        height: 50%;
+      }
+     
+#name{color: rgb(22, 122, 39);
+    text-align: center;
+    text-decoration: darkkhaki;
+    text-shadow: rgb(255, 60, 0) 5px 0 10px;
+    
+
+ } 
+        
+    #ad1{  padding-top: 20px;
+        padding-right: 5px;
+        padding-bottom: 10px;
+        padding-left: 10px;
+        border: 2px solid green;
+       margin-left: 73.3%;
+    position:static;
+       
+    }
+#ul1{
+    background: #ff33bb;
+  padding: 20px;
+  padding: 5px;
+  margin-left: 35px;
+margin-right: 80%;
+list-style-type: style circle;}
+
